@@ -1,4 +1,4 @@
-# Prediksi Kematangan Anggur Jenis Cherny Chrystal
+# Prediksi Kematangan Anggur Jenis Cherny Cristal
 
 ## Cara Install & Run
 
@@ -18,7 +18,19 @@ Buka Terminal dan jalankan command streamlit run app.py
 ## Contoh Tampilan & Contoh penggunaan
 
 ### Tampilan awal
-![awal](Ui1.jpg)
+![awal](Ui1.png)
+
+### Pilih Gambar Anggur Cherny Criystal
+![Simg](Ui2.png)
+
+### Click Prediksi Sekarang Untuk dapat menampilkan hasil Prediksi sisa hari anggur Cherny Cristal akan matang
+Model akan menunjukkan hasil gambar setelah dilakukan segmentasi guna untuk memanggkan latar belakang dan hanya mengambil anggur
+![predik](Ui3.png)
+
+Lalu Model Regresi akan menunjukkan hasil prediksi berapa lama waktu lagi yang diperlukan untuk anggur dapat matang berserta dengan Analisis Histogram Warna
+![hasil](Ui4.png)
+
+
 
 
  
