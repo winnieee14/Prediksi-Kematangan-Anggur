@@ -15,5 +15,10 @@ Buka Terminal dan jalankan command pip install streamlit ultralytics opencv-pyth
 4. **Jalankan program**  
 Buka Terminal dan jalankan command streamlit run app.py
 
+## Contoh Tampilan & Contoh penggunaan
+
+### Tampilan awal
+![awal](Ui1.jpg)
+
 
  
