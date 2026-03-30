@@ -4,11 +4,7 @@
 
 
 1. **Clone repo:**
-   
-  https://github.com/winnieee14/Prediksi-Kematangan-Anggur.git
-   
-
-
+https://github.com/winnieee14/Prediksi-Kematangan-Anggur.git
 2. **Buka di Visual Studio**  
 Buka File app.py pada Visual Studio Code
 
